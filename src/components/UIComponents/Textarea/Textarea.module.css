@@ -1,0 +1,15 @@
+.textarea {
+    outline:none;
+    border:none;
+    margin:0;
+    overflow:hidden;
+    resize:none;
+    background: none;
+    /*align-content: center;*/
+    padding: 10px;
+
+    width: 98%;
+    border-radius: 5px 5px 0 0;
+    /*box-shadow: 0 0 5px 0 #5e5e5e;*/
+    /*background-color: rgb(194, 198, 208);*/
+}

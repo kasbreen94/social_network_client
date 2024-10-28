@@ -1,0 +1,15 @@
+.box {
+  display: flex;
+  background-color: #2a2a2a;
+  box-shadow: 0 0 3px 0 #5e5e5e;
+  gap: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  box-sizing: border-box;
+  &_column {
+    flex-direction: column;
+  }
+  &_fullWidth {
+    width: 100%;
+  }
+}
